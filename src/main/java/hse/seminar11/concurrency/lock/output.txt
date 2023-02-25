@@ -1,0 +1,9 @@
+Bob: You eat first my darling Alice!
+Alice: You eat first my darling Bob!
+Bob: You eat first my darling Alice!
+Alice: You eat first my darling Bob!
+Bob: You eat first my darling Alice!
+Alice: You eat first my darling Bob!
+...
+
+
